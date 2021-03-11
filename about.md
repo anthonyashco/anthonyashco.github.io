@@ -3,6 +3,14 @@ layout: post
 title: About
 ---
 
-This is an example page!
+Introduction
 
-Actually, it has the same layout of a post...
+Experience as a teacher
+
+Experience as a learner
+
+Experience with tech
+
+Experience with code
+
+Things I want

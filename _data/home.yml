@@ -7,11 +7,11 @@ navbar_entries:
 
 project_entries:
   - title: Marina
-    url: overview-post
+    url: marina
     desc: Marina is an open-source Discord moderation bot.
 
   - title: Switch Save Converter
-    url: overview-post
+    url: switch-save-converter
     desc: Switch Save Converter converts Nintendo Switch archives between popular homebrew save archive formats.
 
 old_project_entries:
