@@ -6,39 +6,16 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Marina
-    url: overview-post
-    desc: Marina is an open-source Discord moderation bot.
+  - title: Hotaru
+    url: https://gitlab.com/Celvice/hotaru
+    desc: Hotaru is a modular open-source Discord moderation bot with robust permissions, economy, and content delivery features.
 
   - title: Switch Save Converter
-    url: overview-post
-    desc: Switch Save Converter converts Nintendo Switch archives between popular homebrew save archive formats.
+    url: https://github.com/anthonyashco/switch-save-converter
+    desc: Switch Save Converter converts between Switch save archive formats.
+    highlight: WIP
 
 old_project_entries:
-  - title: microrequests
-    url: http://www.abhinav.co/microrequests
-    desc: A Python library to consume microservices more efficiently
-
-  - title: blockr
-    url: http://www.abhinav.co/blockr
-    desc: A CLI tool to help you easily block and unblock websites
-
-  - title: moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: humangous
-    url: http://www.humangous.co
-    desc: The better people know you, the better they collaborate
-
-  - title: avnee
-    url: http://www.avnee.co
-    desc: New age kids require new ways of parenting
-
-  - title: year progress
-    url: https://year-progress.herokuapp.com/
-    desc: A bot written for slack that shows current year in a progress bar
-    highlight: archived
 
 footer_entries:
   - title: github
@@ -48,35 +25,3 @@ footer_entries:
     url: https://www.linkedin.com/in/anthonyashco/
 
 misc_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: http://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
-
