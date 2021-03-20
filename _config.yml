@@ -1,8 +1,15 @@
-title: Anthony's Coder Page
-author: Anthony Co
+title: Hi! I'm Anthony
+author: Anthony
 url: https://anthonyashco.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome to my page! Description description
+  I'm currently a private instructor and studying Python developer looking to take
+  my first steps into a career in coding!
+  
+  Previously, I developed curricula, led trainings, mentored instructors, and
+  collaborated with the global education team as senior faculty at Axiom Learning.
+  
+  I'm looking for varied and exciting projects that let me learn-by-doing while
+  encouraging growth as a developer and as a leader.
 
 permalink: /:slug.html
 
@@ -13,7 +20,7 @@ remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "Return" # customize text for homepage link in post layout
+  back_home_text: "return" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
   show_navbar: true # show horizontal navbar in home page

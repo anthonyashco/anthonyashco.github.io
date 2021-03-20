@@ -3,6 +3,24 @@ layout: post
 title: About
 ---
 
-This is an example page!
+Nice to meet you! I'm Anthony.
 
-Actually, it has the same layout of a post...
+Formerly, I worked at a learning center, but we thought of the place as a Learning
+Laboratory--something about school wasn't quite working for everyone, and we wanted
+to discover how to fix it. We didn't believe in rote solutions, though: each student
+presented unique challenges, and we designed a similarly unique learning plan for
+each. By talking with them and their parents, we could identify the root cause
+underlying the surface grade or behavorial symptoms and discover a learning plan that
+they could believe in, which gave them the tools they needed to succeed long after they
+left our center.
+
+Something we always asked our students to do during our first conversation was list
+what they liked doing, versus what they were good at, since these lists didn't always
+agree with each other. This question always resonated with me, until the pandemic
+gave me the opportunity to begin a new career path.
+
+I started learning Python casually November 2019, and started seriously
+dedicating myself to coding and IT curricula October 2020, while developing my personal
+projects on the side. I'm looking to bring my teaching, speaking, and investigative
+experience to solve software development problems, and mentors to guide my development
+and leadership path.
