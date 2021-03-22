@@ -7,7 +7,7 @@ navbar_entries:
 
 project_entries:
   - title: Hotaru
-    url: https://gitlab.com/Celvice/hotaru
+    url: https://gitlab.com/Kokonoe/hotaru
     desc: Hotaru is a modular open-source Discord moderation bot with robust permissions, economy, and content delivery features.
 
   - title: Switch Save Converter
