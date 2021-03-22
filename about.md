@@ -5,6 +5,10 @@ title: About
 
 Nice to meet you! I'm Anthony.
 
+I'm a Python developer looking to get into professional software developemnt. I'm
+looking to leverage my teaching experience and group leadership skills to facilitate
+healthy teamwork and find a development mentor.
+
 Formerly, I worked at a learning center, but we thought of the place as a Learning
 Laboratory--something about school wasn't quite working for everyone, and we wanted
 to discover how to fix it. We didn't believe in rote solutions, though: each student
