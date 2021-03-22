@@ -10,9 +10,9 @@ project_entries:
     url: https://gitlab.com/Kokonoe/hotaru
     desc: Hotaru is a modular open-source Discord moderation bot with robust permissions, economy, and content delivery features.
 
-  - title: Switch Save Converter
-    url: https://github.com/anthonyashco/switch-save-converter
-    desc: Switch Save Converter converts between Switch save archive formats.
+  - title: pyGDrive3
+    url: https://github.com/anthonyashco/pygdrive3
+    desc: An API wrapper to simplify Google Drive API v3 calls.
     highlight: WIP
 
 old_project_entries:
