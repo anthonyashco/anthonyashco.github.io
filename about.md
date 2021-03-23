@@ -5,7 +5,7 @@ title: About
 
 Nice to meet you! I'm Anthony.
 
-I'm a Python developer looking to get into professional software developemnt. I'm
+I'm a Python developer looking to get into professional software development. I'm
 looking to leverage my teaching experience and group leadership skills to facilitate
 healthy teamwork and find a development mentor.
 
