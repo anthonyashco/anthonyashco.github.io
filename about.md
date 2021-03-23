@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About me
+title: About
 ---
 
 ### Nice to meet you! I'm Anthony.
