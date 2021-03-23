@@ -1,15 +1,15 @@
 ---
 layout: post
-title: About
+title: About me
 ---
 
-Nice to meet you! I'm Anthony.
-
+### Nice to meet you! I'm Anthony.
 I'm a Python developer looking to get into professional software development. I'm
 looking to leverage my teaching experience and group leadership skills to facilitate
 healthy teamwork and find a development mentor.
 
-Formerly, I worked at a learning center, but we thought of the place as a Learning
+### Previously,
+I worked at a learning center, but we thought of the place as a Learning
 Laboratory--something about school wasn't quite working for everyone, and we wanted
 to discover how to fix it. We didn't believe in rote solutions, though: each student
 presented unique challenges, and we designed a similarly unique learning plan for
@@ -23,6 +23,7 @@ what they liked doing, versus what they were good at, since these lists didn't a
 agree with each other. This question always resonated with me, until the pandemic
 gave me the opportunity to begin a new career path.
 
+### Learning Python
 I started learning Python casually November 2019, and started seriously
 dedicating myself to coding and IT curricula October 2020, while developing my personal
 projects on the side. I'm looking to bring my teaching, speaking, and investigative
