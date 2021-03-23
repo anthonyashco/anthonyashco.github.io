@@ -25,3 +25,11 @@ footer_entries:
     url: https://www.linkedin.com/in/anthonyashco/
 
 misc_entries:
+  - title: "Credentials:"
+    url: false
+    entries:
+      - title: Google IT Automation Professional Certificate
+        url: https://www.youracclaim.com/badges/cc4932da-9498-4363-9788-5b3d3d29da71/public_url
+
+      - title: Google IT Support / CompTIA A+ dual credential
+        url: https://www.youracclaim.com/badges/6e4a7676-4e25-4520-8e4e-6e3d20ce061a/public_url
