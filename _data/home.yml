@@ -5,6 +5,12 @@ navbar_entries:
   - title: blog
     url: blog
 
+  - title: credentials
+    url: credentials
+
+  - title: resume
+    url: images/Anthony Co Developer Resume.pdf
+
 project_entries:
   - title: Hotaru
     url: https://gitlab.com/Kokonoe/hotaru
