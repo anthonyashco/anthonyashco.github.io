@@ -33,5 +33,5 @@ gave me the opportunity to begin a new career path.
 I started learning Python casually November 2019, and started seriously
 dedicating myself to coding and IT curricula October 2020, while developing my personal
 projects on the side. I'm looking to bring my teaching, speaking, and investigative
-experience to solve software development problems, and mentors to guide my development
-and leadership path.
+experience to solve software development problems, and find mentors to guide my
+development and leadership path.
