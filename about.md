@@ -13,10 +13,16 @@ I worked at a learning center, but we thought of the place as a Learning
 Laboratory--something about school wasn't quite working for everyone, and we wanted
 to discover how to fix it. We didn't believe in rote solutions, though: each student
 presented unique challenges, and we designed a similarly unique learning plan for
-each. By talking with them and their parents, we could identify the root cause
-underlying the surface grade or behavorial symptoms and discover a learning plan that
-they could believe in, which gave them the tools they needed to succeed long after they
-left our center.
+each.
+
+The global education team constantly immersed themselves in cutting-edge research into
+education and child developmental psychology and valued data- and metrics-driven
+goals and curricula.
+
+By assessing the student and speaking with them and their parents, we could identify the
+root cause underlying the surface grade or behavorial symptoms and discover a learning
+plan that they could believe in, which gave them the tools they needed to succeed long
+after they left our center.
 
 Something we always asked our students to do during our first conversation was list
 what they liked doing, versus what they were good at, since these lists didn't always
